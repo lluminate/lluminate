@@ -1,4 +1,4 @@
-### Hi
+### Manufacturing Engineering @ UBC
 
 Busy naming variables 😡
 
