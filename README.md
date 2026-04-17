@@ -2,7 +2,7 @@
 
 Busy naming variables 😡
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://forthebadge.com)
 
 <!--
 **lluminate/lluminate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
